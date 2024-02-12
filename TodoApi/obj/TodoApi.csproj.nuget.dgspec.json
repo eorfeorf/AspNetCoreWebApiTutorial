@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workspace\\C#\\TodoApi\\TodoApi\\TodoApi.csproj": {}
+    "H:\\Workspace\\C#\\AspNetCoreWebApiTutorial\\TodoApi\\TodoApi.csproj": {}
   },
   "projects": {
-    "C:\\Workspace\\C#\\TodoApi\\TodoApi\\TodoApi.csproj": {
+    "H:\\Workspace\\C#\\AspNetCoreWebApiTutorial\\TodoApi\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\C#\\TodoApi\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "H:\\Workspace\\C#\\AspNetCoreWebApiTutorial\\TodoApi\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "C:\\Workspace\\C#\\TodoApi\\TodoApi\\TodoApi.csproj",
-        "packagesPath": "C:\\Users\\EF\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\C#\\TodoApi\\TodoApi\\obj\\",
+        "projectPath": "H:\\Workspace\\C#\\AspNetCoreWebApiTutorial\\TodoApi\\TodoApi.csproj",
+        "packagesPath": "C:\\Users\\orerr\\.nuget\\packages\\",
+        "outputPath": "H:\\Workspace\\C#\\AspNetCoreWebApiTutorial\\TodoApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\EF\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\orerr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -46,6 +46,24 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"

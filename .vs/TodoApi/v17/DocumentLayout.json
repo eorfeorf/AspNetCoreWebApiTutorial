@@ -1,10 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Workspace\\C#\\TodoApi\\",
+  "WorkspaceRootPath": "H:\\Workspace\\C#\\AspNetCoreWebApiTutorial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D45AF944-ED0F-47A5-A5F1-A966D21A13BF}|TodoApi\\TodoApi.csproj|c:\\workspace\\c#\\todoapi\\todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D45AF944-ED0F-47A5-A5F1-A966D21A13BF}|TodoApi\\TodoApi.csproj|h:\\workspace\\c#\\aspnetcorewebapitutorial\\todoapi\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45AF944-ED0F-47A5-A5F1-A966D21A13BF}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45AF944-ED0F-47A5-A5F1-A966D21A13BF}|TodoApi\\TodoApi.csproj|h:\\workspace\\c#\\aspnetcorewebapitutorial\\todoapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45AF944-ED0F-47A5-A5F1-A966D21A13BF}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45AF944-ED0F-47A5-A5F1-A966D21A13BF}|TodoApi\\TodoApi.csproj|h:\\workspace\\c#\\aspnetcorewebapitutorial\\todoapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45AF944-ED0F-47A5-A5F1-A966D21A13BF}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45AF944-ED0F-47A5-A5F1-A966D21A13BF}|TodoApi\\TodoApi.csproj|h:\\workspace\\c#\\aspnetcorewebapitutorial\\todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D45AF944-ED0F-47A5-A5F1-A966D21A13BF}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45AF944-ED0F-47A5-A5F1-A966D21A13BF}|TodoApi\\TodoApi.csproj|h:\\workspace\\c#\\aspnetcorewebapitutorial\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45AF944-ED0F-47A5-A5F1-A966D21A13BF}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45AF944-ED0F-47A5-A5F1-A966D21A13BF}|TodoApi\\TodoApi.csproj|h:\\workspace\\c#\\aspnetcorewebapitutorial\\todoapi\\todoapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D45AF944-ED0F-47A5-A5F1-A966D21A13BF}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\todoapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,28 +34,88 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "H:\\Workspace\\C#\\AspNetCoreWebApiTutorial\\TodoApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "H:\\Workspace\\C#\\AspNetCoreWebApiTutorial\\TodoApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "TodoApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-12T05:41:23.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TodoItemsController.cs",
+              "DocumentMoniker": "H:\\Workspace\\C#\\AspNetCoreWebApiTutorial\\TodoApi\\Controllers\\TodoItemsController.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Controllers\\TodoItemsController.cs",
+              "ToolTip": "H:\\Workspace\\C#\\AspNetCoreWebApiTutorial\\TodoApi\\Controllers\\TodoItemsController.cs",
+              "RelativeToolTip": "TodoApi\\Controllers\\TodoItemsController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAAEoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-11T18:03:34.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Workspace\\C#\\AspNetCoreWebApiTutorial\\TodoApi\\Program.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Program.cs",
+              "ToolTip": "H:\\Workspace\\C#\\AspNetCoreWebApiTutorial\\TodoApi\\Program.cs",
+              "RelativeToolTip": "TodoApi\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwBwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-11T17:13:49.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoContext.cs",
+              "DocumentMoniker": "H:\\Workspace\\C#\\AspNetCoreWebApiTutorial\\TodoApi\\Models\\TodoContext.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Models\\TodoContext.cs",
+              "ToolTip": "H:\\Workspace\\C#\\AspNetCoreWebApiTutorial\\TodoApi\\Models\\TodoContext.cs",
+              "RelativeToolTip": "TodoApi\\Models\\TodoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-11T17:11:22.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TodoApi",
+              "DocumentMoniker": "H:\\Workspace\\C#\\AspNetCoreWebApiTutorial\\TodoApi\\TodoApi.csproj",
+              "RelativeDocumentMoniker": "TodoApi\\TodoApi.csproj",
+              "ToolTip": "H:\\Workspace\\C#\\AspNetCoreWebApiTutorial\\TodoApi\\TodoApi.csproj",
+              "RelativeToolTip": "TodoApi\\TodoApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-11T16:47:09.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "TodoItem.cs",
-              "DocumentMoniker": "C:\\Workspace\\C#\\TodoApi\\TodoApi\\Models\\TodoItem.cs",
+              "DocumentMoniker": "H:\\Workspace\\C#\\AspNetCoreWebApiTutorial\\TodoApi\\Models\\TodoItem.cs",
               "RelativeDocumentMoniker": "TodoApi\\Models\\TodoItem.cs",
-              "ToolTip": "C:\\Workspace\\C#\\TodoApi\\TodoApi\\Models\\TodoItem.cs",
+              "ToolTip": "H:\\Workspace\\C#\\AspNetCoreWebApiTutorial\\TodoApi\\Models\\TodoItem.cs",
               "RelativeToolTip": "TodoApi\\Models\\TodoItem.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-11T09:10:26.68Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }
